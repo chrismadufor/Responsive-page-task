@@ -407,8 +407,7 @@ div.footer h6 {
     align-items: center;
   }
   div.hero-section {
-    padding: auto 64px;
-    height: 55vh;
+    padding: 72px 64px;
   }
   div.hero-background,
   div.snapshot-box,
@@ -449,7 +448,7 @@ div.footer h6 {
 }
 @media (max-width: 568px) {
   div.hero-section {
-    padding: 48px 36px;
+    padding: 56px 36px;
   }
   div.hero-background,
   div.snapshot-box,
